@@ -1,0 +1,3 @@
+C:/Users/rzvbo/OneDrive/Desktop/UBB/anul 3 - sem 1/PDP/Bled/Lab 1/out/build/x64-Debug/CMakeFiles/Lab_2.dir
+C:/Users/rzvbo/OneDrive/Desktop/UBB/anul 3 - sem 1/PDP/Bled/Lab 1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rzvbo/OneDrive/Desktop/UBB/anul 3 - sem 1/PDP/Bled/Lab 1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
